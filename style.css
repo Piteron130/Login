@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('img/background2.jpg') no-repeat;
+    background: url('https://img.freepik.com/vector-gratis/diseno-fondo-moderno-blanco-3d_53876-88246.jpg?w=740&t=st=1681870575~exp=1681871175~hmac=7b9c1073dc64799ba9ecc2354eef983a589fdaabf8a982d27712bd0ba49c5b60') no-repeat;
     background-size: cover;
     background-position: center;
 }
